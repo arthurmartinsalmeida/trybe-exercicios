@@ -8,4 +8,4 @@ if (grade >= 80) {
  }
  else if (grade < 60) {
     console.log("Infelizmente, você reprovou.");
- }
+ } 
